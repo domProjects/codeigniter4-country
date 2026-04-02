@@ -1,0 +1,40 @@
+{
+    "name": "domprojects/codeigniter4-country",
+    "description": "Translated country helper for CodeIgniter 4 projects.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "codeigniter4",
+        "codeigniter",
+        "country",
+        "countries",
+        "helper",
+        "localization"
+    ],
+    "homepage": "https://github.com/domProjects/codeigniter4-country",
+    "support": {
+        "issues": "https://github.com/domProjects/codeigniter4-country/issues",
+        "source": "https://github.com/domProjects/codeigniter4-country"
+    },
+    "authors": [
+        {
+            "name": "domProjects",
+            "homepage": "https://github.com/domProjects",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "codeigniter4/framework": "^4.7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "domProjects\\CodeIgniterCountry\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        }
+    }
+}
