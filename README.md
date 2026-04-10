@@ -1,5 +1,11 @@
 # Country for CodeIgniter 4
 
+[![Packagist](https://img.shields.io/packagist/v/domprojects/codeigniter4-country?label=Packagist)](https://packagist.org/packages/domprojects/codeigniter4-country)
+[![License](https://img.shields.io/github/license/domProjects/codeigniter4-country)](https://github.com/domProjects/codeigniter4-country/blob/main/LICENSE)
+[![PHPUnit](https://img.shields.io/github/actions/workflow/status/domProjects/codeigniter4-country/phpunit.yml?branch=main&label=PHPUnit)](https://github.com/domProjects/codeigniter4-country/actions/workflows/phpunit.yml)
+[![Psalm](https://img.shields.io/github/actions/workflow/status/domProjects/codeigniter4-country/psalm.yml?branch=main&label=Psalm)](https://github.com/domProjects/codeigniter4-country/actions/workflows/psalm.yml)
+[![PHPStan](https://img.shields.io/github/actions/workflow/status/domProjects/codeigniter4-country/phpstan.yml?branch=main&label=PHPStan)](https://github.com/domProjects/codeigniter4-country/actions/workflows/phpstan.yml)
+
 Translated country helper for CodeIgniter 4.
 
 This package provides:
