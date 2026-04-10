@@ -1,4 +1,4 @@
-# domProjects CodeIgniter 4 Country
+# Country for CodeIgniter 4
 
 Translated country helper for CodeIgniter 4.
 

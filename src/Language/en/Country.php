@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * This file is part of domprojects/codeigniter4-country.
+ *
+ * (c) domProjects
+ *
+ * For the full copyright and license information, please view
+ * the LICENSE file that was distributed with this source code.
+ */
+
 return [
     'selectCountry' => 'Select a country',
     'list'          => [
